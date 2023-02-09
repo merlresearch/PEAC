@@ -1,0 +1,9 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+
+Files: *.mat
+Copyright: 2014,2023 Mitsubishi Electric Research Laboratories (MERL)
+License: AGPL-3.0-or-later
+
+Files: matlab/mex/*.mexw64
+Copyright: 2014,2023 Mitsubishi Electric Research Laboratories (MERL)
+License: AGPL-3.0-or-later
